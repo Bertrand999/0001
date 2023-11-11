@@ -1,0 +1,18 @@
+## Useful links
+
+- [Bite-Sized Neo4j for Data Scientists](https://neo4j.com/video/bite-sized-neo4j-for-data-scientists/)
+  - [Repository of Bite-Sized Code](https://dev.neo4j.com/bites_repo)
+- [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+- [Project Jupyter](https://jupyter.org/)
+- [Docker for Data Science -- A Step by Step Guide](https://towardsdatascience.com/docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e)
+- [Google Knowledge Graph Search API](https://wikipedia.readthedocs.io/en/latest/)
+  - [How to Create a Google Knowledge Graph Search API Key](https://developers.google.com/knowledge-graph/prereqs)
+  - [Knowledge Graph Search API Authorize Requests](https://developers.google.com/knowledge-graph/how-tos/authorizing)
+- [Neo4j](https://neo4j.com)
+  - [Awesome Procedures on Cypher (APOC)](https://neo4j.com/labs/apoc/)
+  - [Cypher Manual](https://neo4j.com/docs/cypher-manual/current/)
+  - [Cypher Reference Card](https://neo4j.com/docs/pdf/neo4j-cypher-refcard-stable.pdf)
+  - [Graph Data Science (GDS) Library](https://neo4j.com/developer/graph-data-science/)
+  - [Python Driver API Docs](https://neo4j.com/docs/api/python-driver/current/)
+- [spacy Documentation](https://spacy.io/)
+- [Wikipedia package docs](https://wikipedia.readthedocs.io/en/latest/)

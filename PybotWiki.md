@@ -1,0 +1,3 @@
+### A note on scraping Wikidata with a bot
+
+We will be using [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot) to scrape entries from Wikidata.  In order to do this, you will need to create a token for this bot.  Directions on how to do so can be found [here](https://heardlibrary.github.io/digital-scholarship/host/wikidata/bot/).  Once you have that token, save it into a file named `.wiki_api_token` in the `notebooks/` subdirectory.
